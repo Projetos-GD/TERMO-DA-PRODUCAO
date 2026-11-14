@@ -1,0 +1,6 @@
+{
+  "name": "Termo - Jogo de Palavras",
+  "description": "Um clone polido e responsivo do famoso jogo Termo, com suporte a teclado, gestão de cores do teclado, e cadastro de palavras protegido por senha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
